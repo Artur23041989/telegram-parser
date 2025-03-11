@@ -1,0 +1,1 @@
+from .vacancies_api import get_vacancies
